@@ -1,2 +1,4 @@
-e- line1\nline2
-line 2
+line 1
+line 3
+added a line
+
